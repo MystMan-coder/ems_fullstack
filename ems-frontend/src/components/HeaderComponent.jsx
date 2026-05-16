@@ -5,7 +5,7 @@ const HeaderComponent = () => {
     <div>
         <header>
             <nav className="navbar bg-dark border-bottom border-body" data-bs-theme="dark">
-                <a class="navbar-brand" href="https://dhananjaykumar.vercel.app/">Employees Management System</a>
+                <a className="navbar-brand" href="https://dhananjaykumar.vercel.app/">Employees Management System</a>
             </nav>
         </header>
     </div>
